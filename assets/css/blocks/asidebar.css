@@ -1,0 +1,32 @@
+.asidebar__title {
+    font-size: 18px;
+    line-height: 21px;
+    margin-bottom: 23px;
+    margin-top: 9px;
+}
+
+.services {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin-bottom: 37px;
+}
+
+.service__item {}
+
+.service__image {
+    display: block;
+    margin-bottom: 7px;
+}
+
+.service__title {
+    font-size: 14px;
+    line-height: 16px;
+    margin-bottom: 5px;
+}
+
+.service__text {
+    font-size: 14px;
+    line-height: 16px;
+    max-width: 217px;
+}
